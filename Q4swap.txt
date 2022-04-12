@@ -1,0 +1,9 @@
+a= 1
+b = 2
+print("1st Value a =", a)
+print("1st Value b =", b)
+temp = a
+a = b
+b = temp
+print("After swaping value of a =", a)
+print("After swaping value of b =", b)
