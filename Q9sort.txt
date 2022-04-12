@@ -1,0 +1,4 @@
+a = [44, 56, 42, 31, 11, 23, 78, 89, 9, 0]
+print("The list is :",a)
+a.sort(reverse = True)
+print("The list after sorting is :",a)
