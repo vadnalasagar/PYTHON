@@ -1,0 +1,11 @@
+def recsum(num):
+if num<=1:
+return num
+else:
+return num+recsum(num-1)
+
+
+
+num =int(input("ent num:"))
+sum=recsum(num)
+print("Sum of given no is:",sum)

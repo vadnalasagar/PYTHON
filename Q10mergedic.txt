@@ -1,0 +1,4 @@
+a = {"c": 2, "od" : 3, "e": 5}
+b = {"f": 3, "g": 4, "h": 6}
+f.update(dry_fruits)
+print(f)
