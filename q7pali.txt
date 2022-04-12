@@ -1,0 +1,6 @@
+a=input(('enter input--'))
+b=a[::-1]
+if (a==b):
+  print("IS Pali")
+else :
+  print(a,":- not pali")
